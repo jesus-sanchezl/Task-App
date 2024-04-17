@@ -18,4 +18,9 @@ Este es un simple administrador de tareas construido con JavaScript puro. Permit
 5. Haz clic en el botón "Limpiar Tareas Completadas" para eliminar las tareas marcadas como completadas.
 
 
+## Ver ejemplo en vivo 
+
+- https://jesus-sanchezl.github.io/Task-App/
+
+
 
